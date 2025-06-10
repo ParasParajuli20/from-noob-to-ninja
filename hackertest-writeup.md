@@ -109,6 +109,7 @@ Base64 decode multiple times:
 ```bash
 $ echo "VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZYUmtZeVYycEtTbG95U25SUFZFNU5Xbm93T1QwOT09" | base64 -D
 
- ---
 
-> ⚠️ **Disclaimer:**  These solutions are based on vulnerable lab environments designed for legal security training.
+---
+
+⚠️ **Disclaimer:**  These solutions are based on vulnerable lab environments designed for legal security training.
